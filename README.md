@@ -11,6 +11,5 @@
 
 <h2>📲 Connect with me:</h2>
 
-
-[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/min-park-711213250/)https://www.linkedin.com/in/min-park-711213250/
+- [LinkedIn]([https://www.credly.com/badges/e81b73f5-70c0-4b4d-8f0c-7eb8a9daeb9c/public_url](https://www.linkedin.com/in/min-park-711213250/)https://www.linkedin.com/in/min-park-711213250/)
 
